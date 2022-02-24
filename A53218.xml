@@ -1,0 +1,473 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reflections to a late book, entituled, The genuine remains of Dr. Tho. Barlow late Bishop of Lincoln. Falsly pretended to be published from His Lordship's original papers. With a catalogue of Socinian writers.</title>
+            <author>Offley, William, 1659 or 60-1724.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53218</idno>
+            <idno type="STC">Wing O159B</idno>
+            <idno type="STC">ESTC R26451</idno>
+            <idno type="EEBO-CITATION">99829502</idno>
+            <idno type="PROQUEST">99829502</idno>
+            <idno type="VID">33942</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53218)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33942)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1995:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reflections to a late book, entituled, The genuine remains of Dr. Tho. Barlow late Bishop of Lincoln. Falsly pretended to be published from His Lordship's original papers. With a catalogue of Socinian writers.</title>
+                  <author>Offley, William, 1659 or 60-1724.</author>
+               </titleStmt>
+               <extent>28 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Robert Clavell, at the Peacock in St. Paul's Church-Yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M DC XCIV. [1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: William Offley.</note>
+                  <note>Imprimatur dated: 25 July 1694.</note>
+                  <note>Caption title on p. 7 reads: Reflections on a late book, &amp;c.</note>
+                  <note>Advertisement at foot of p. 28.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Barlow, Thomas, 1607-1691. --  Genuine remains of that learned prelate Dr. Thomas Barlow --  Controversial literature --  Early works to 1800.</term>
+               <term>Socinianism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33942:1"/>
+            <pb facs="tcp:33942:1" rendition="simple:additions"/>
+            <p>REFLECTIONS To a Late BOOK, Entituled, The <hi>GEN<g ref="char:V">Ʋ</g>INE REMAINS</hi> OF Dr. Tho. Barlow, Late BISHOP of LINCOLN.</p>
+            <p>Falſly pretended to be Publiſhed from His LORDSHIP'S Original Papers.</p>
+            <p>With a CATALOGUE of SOCINIAN WRITERS.</p>
+            <q>
+               <p>Haec volebum, neſcius ne eſſes.</p> 
+               <bibl>Preface to the <hi>Remains.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Clavell,</hi> at the Peacock in St. <hi>Paul</hi>'s Church-Yard. MDCXCIV.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:33942:2" rendition="simple:additions"/>
+            <p>Imprimatur.</p>
+            <closer>
+               <signed>
+                  <hi>Guil. Lancaſter,</hi> R. P. D. <hi>Hen.</hi> Epiſco. <hi>Lond. à</hi> Sacris Domeſt.</signed>
+               <dateline>
+                  <date>July 25. 1694.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:33942:2"/>
+            <head>TO THE REVEREND DOCTOR <hi>F<g ref="char:V">Ʋ</g>LLER,</hi> CHANCELLOR OF THE CATHEDRAL CHURCH in <hi>LINCOLN.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>AS I ſhall conſtantly endeavour to approve my ſelf ſenſible of my late Lord Biſhop of <hi>Lin<g ref="char:EOLhyphen"/>coln</hi>'s great Favours in general, ſo in particular I think my ſelf happy in your Friendſhip, which I have not a little Experienced ever ſince my firſt admiſſion into the Church of <hi>Lincoln,</hi> by vertue of his Lord Biſhop's Patronage.</p>
+            <p>When I was with you at <hi>Lincoln</hi> in <hi>May</hi> laſt, you were pleaſed to enquire about the late Biſhop of <hi>Lincoln</hi>'s Original <hi>MSS,</hi> which were entruſted with my Brother Chaplain and my ſelf; and to expreſs your Concern very much, that ſuch poor Scraps of Learning ſhould be Printed under the Authority of ſo great a Name as Doctor <hi>Barlow</hi>'s was; and that the <hi>Genuine Remains</hi> which were Extant, did not only injure the Memory of him that was a Learned
+<pb facs="tcp:33942:3"/>
+Father of our Church, but occaſion'd ſome Perſons to cenſure and condemn thoſe whom he had left his Legatees for his Papers: I did then aſſure you, that we that had the Biſhop's <hi>MSS</hi> had taken all ima<g ref="char:EOLhyphen"/>ginable Care of them, having never parted with any of them, nor gave conſent that any part or par<g ref="char:EOLhyphen"/>cel of them ſhould be Printed; and that what had happen'd was altogether without our knowledge. And thus much I gave you for truth under my own Hand, in a Paper which I left with you; the Subſtance of which I read to the Reverend Doctor <hi>Gardiner,</hi> our preſent Sub-Dean, who was equally concern'd with your ſelf, that any thing ſhould paſs abroad under our late Biſhop's Name and Character, which might in the leaſt prejudice the Church and his Me<g ref="char:EOLhyphen"/>mory. I then ſatisfied you both, that one Sir <hi>P. P.</hi> and the late Vicar of <hi>Bugden,</hi> were the confederate Ped<g ref="char:EOLhyphen"/>lars, that have endeavour'd to impoſe upon the World ſo much varniſh'd Ware, for the ſake of Twen<g ref="char:EOLhyphen"/>ty Guineas gave for the Copy; as his Wife in<g ref="char:EOLhyphen"/>form'd a Reverend Friend of mine.</p>
+            <p>Soon after I left <hi>Lincoln,</hi> I met with the late Miniſter of <hi>Bugden,</hi> who confeſs'd he did commu<g ref="char:EOLhyphen"/>nicate the Directions to a young Divine, which uſh<g ref="char:EOLhyphen"/>ers in the reſt of the Remains to Sir <hi>P. P.</hi> which <hi>MSS</hi> I told him was not compleated; for being ad<g ref="char:EOLhyphen"/>mitted ſometime to a freedom of Diſcourſe with his
+<pb facs="tcp:33942:3"/>
+Lordſhip, upon my mentioning once the Printing of his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he was pleas'd to ſay, That he fear'd his Directions were imperfect; for having written them at ſeveral times, they requir'd a care<g ref="char:EOLhyphen"/>ful Review, and more Time than he had then to ſpare for ſuch a purpoſe; but ſaid he hop'd to be more at leiſure to conſult hereafter, what was pro<g ref="char:EOLhyphen"/>per to be done: My Lord in a few Months after died, without peruſing his own Original <hi>MSS.</hi> or Correcting of any Copy, that had been taken after it: And many of thoſe Copies which were wrote from the Original were imperfect; my Lord com<g ref="char:EOLhyphen"/>manding oftentimes that only ſome part of his Di<g ref="char:EOLhyphen"/>rections ſhould be copied out, which, ſaid he, may be ſufficient for ſome who are very curious in Books, or perhaps not able to buy many.</p>
+            <p>At my return hither I delay'd no time to acquaint Mr. <hi>Brougham</hi> with the ill Conſequences which I apprehended might enſue, upon our ſuffering ſo much Injuſtice to be done to our late Lord's Me<g ref="char:EOLhyphen"/>mory, without any Advertiſement, or Notice taken of it by us, who were jointly concern'd in our own Vindication, as well as our Lord's: I deſir'd him (ſince he had all the Biſhop's <hi>MSS.</hi> in his cuſtody at <hi>Queens College Oxon.</hi>) to conſult them that were uſeful for our preſent purpoſe, in expoſing the Defects of the <hi>Genuine Remains;</hi> he readily anſwer'd my Re<g ref="char:EOLhyphen"/>queſt,
+<pb facs="tcp:33942:4"/>
+and return'd me the following Letter which I ſend you; and being confident you will be pleas'd with the deſign of doing Juſtice to the Memory of a Learn<g ref="char:EOLhyphen"/>ed Prelate, which has ſuffer'd in the Publication of little things, whilſt the more weighty Effects of his indefatigable Pains and Study have (according to his own Inclinations and Will) been kept from being made Publick.</p>
+            <closer>
+               <signed>I am Sir, Your moſt Obliged Servant, <hi>William Offley.</hi>
+               </signed>
+               <dateline>
+                  <hi>Middleton-Stony,</hi> 
+                  <date>Jun. <hi>23. 94.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="7" facs="tcp:33942:4"/>
+            <head>REFLECTIONS On a Late BOOK, &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOU may remember, that diſcourſing with you frequently about ſome Pieces that have appear'd under the late Learned and Pious Biſhop of <hi>Lincoln</hi>'s Name, particularly that of the <hi>Genu<g ref="char:EOLhyphen"/>ine Remains,</hi> I always expreſs't my Senſe about them to this effect; That though there was foul play practiſed in the publiſhing of them, and ſuch as deſerved to be taken notice of, yet that thoſe concern'd therein had laid their deſign (of getting a penny) ſo open, and their poor Arts of raiſing the price and bulk of a Book ſo obvi<g ref="char:EOLhyphen"/>ous and undiſguiſed, that they were viſible to every Eye without being pointed to, and ſo needed not be more effectually expoſed than they had done it them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p>And for the clearing us, whom the Biſhop was plea<g ref="char:EOLhyphen"/>ſed to appoint Legatees for all his own Original Manu<g ref="char:EOLhyphen"/>ſcripts, I thought it ſufficient for us openly to diſavow (as for my part, I did upon all occaſions) our being either conſenting or ſo much as privy to the Printing any of them; which if we had been minded to do, it
+<pb n="8" facs="tcp:33942:5"/>
+had been eaſy to have made choice of ſuch, as were infinitely more worthy of the Biſhop's Character. And to remove all Suſpicion at the greater diſtance, I fail'd not to acquaint others (as opportunity ſerved) that the Biſhop, at the diſpoſal of his MSS. ſhew'd no inclination to have any of them publiſh'd after his Deceaſe; for that the freedom being taken to ask his Lordſhip whether he would have any of them Printed, his Anſwer was, (as near as I could recollect) that he did not deſire that any ſhould. Now though this did not amount to an abſolute Prohibition, yet I told them we took it to be a Signification of the Biſhop's Mind, and accordingly thought our Selves bound religiouſly to obſerve it, notwithſtanding the expectations and impor<g ref="char:EOLhyphen"/>tunities of others, or the Advantage we might otherwiſe propoſe to our ſelves.</p>
+            <p>And thus being in no wiſe conſcious to our ſelves, of ſending any thing abroad under the Biſhop's Name; I hope it may ſeem the more excuſable that we have been the leſs concern'd to publiſh our Innocence.</p>
+            <p>The only thing then that could be expected from us, was, thas ſomething ſhould be offer'd in Vindi<g ref="char:EOLhyphen"/>cation of the Biſhop's Memory, to which upon ſeveral accounts we owe a great Eſteem and Veneration, and which indeed would be extremely injured, if the World ſhould believe (what is ſuggeſted in the Pomp<g ref="char:EOLhyphen"/>ous Title) that Thoſe were THE <hi>Genuine</hi> Products of the Learned Prelate's long Study and Labour. But the truth is, I could never perſwade my ſelf that any that were acquainted with his Lordſhip's great Abilities (as few were ignorant of them) could ever entertain ſo injurious a thought of him. It was very well known that as He had made a noble Collection of Books, ſo he put them to better uſe than any thing that's Printed
+<pb n="9" facs="tcp:33942:5"/>
+ſince his Death doth ſhew; and has taken the moſt effectual way to make them ſerviceable hereafter, by bequeathing them to <hi>Bodley</hi>'s and Queens-<hi>College</hi> Li<g ref="char:EOLhyphen"/>braries in <hi>Oxford,</hi> and thereby accompliſhing his own often repeated promiſes, and the hopes that others had conceiv'd thereupon.</p>
+            <p>And theſe Conſiderations you know, Sir, wrought ſo far with me, that I thought it unneceſſary any thing ſhould be offer'd in print, either for the Vindication of our Patron, or the Satisfaction of others. And herein you ſeem'd heretofore to concur with me. Nevertheleſs, ſince as well upon the ſaid accounts, as to juſtify our ſelves from ſome groundleſs ſurmiſes, you judge it need<g ref="char:EOLhyphen"/>ful ſomething ſhould be ſaid; I am ready to commu<g ref="char:EOLhyphen"/>nicate a few things that occur'd to me in the peruſal of the <hi>Remains</hi> (for to take notice of every thing that would bear a Reflection, would be an endleſs labour) and ſhall leave it to your Diſcretion to make what uſe of them you think fit.</p>
+            <p>It was not to be expected, but that one ſpecious Pretence or other would be made uſe of to palliate the matter, and the rather, becauſe the moſt unbecoming Actions (like the homelieſt Faces) require the moſt Art to ſet them off. And therefore to make Bookſeller and Buyer the better to ſwallow the Pill, nothing leſs is pretended than the gratifyng the Learned <hi>World,</hi> and <hi>erecting a laſting Monument of Praiſe to the Biſhop's Memory, by the Publication of this Book.</hi> As to the latter part of the Plea, it muſt be owned that the Pious Architect's Zeal for the Biſhop's Honour has tranſ<g ref="char:EOLhyphen"/>ported him ſo far, that rather than want Materials for a Monument, he has piled together ſuch deſpicable ones, as if compar'd with others the Biſhop has left behind Him, would make Him lamented as buried in Ruins.
+<pb n="10" facs="tcp:33942:6"/>
+How far he deſign'd to oblige the World by this Col<g ref="char:EOLhyphen"/>lection of Relicks, is only diſcernible to the Searcher of Hearts; but how far he has compaſs'd that Deſign, o<g ref="char:EOLhyphen"/>thers may judge: And I can't forbear (on this Occa<g ref="char:EOLhyphen"/>ſion) reflecting on the ſubtile Trade which the Romiſh Fryars drive in vending the <hi>Relicks</hi> of their <hi>Saints,</hi> which, there are ſhrew'd Temptations to believe, is not ſo much for the benefit of the People as themſelves.</p>
+            <p>But that which ſeems a <hi>Jeſt</hi> upon the Reader's Un<g ref="char:EOLhyphen"/>derſtanding, is, that the Editor would make him be<g ref="char:EOLhyphen"/>lieve he is tender of<note n="(a)" place="margin">p. 567.</note> 
+               <hi>ſwelling the Volume to too great</hi> a bulk, when 'tis viſible he has ſcraped together both Old and New, Good and Bad, Genuine and Adulterate, the one to be a Vehicle to the other, and both together to ſcrew Mr. <hi>Dunton</hi> up to a Pitch. If the World be ſo Superſtitious as to be fond of Relicks, does he think Men will renounce their Senſes too, and in ſpight of them believe that he is in good earneſt careful not to be too bulky, when to advance the number of Sheets he has added ſeveral of his own, and patch'd up a third part of the reſt of the Book out of old Pieces, witneſs the Preface to the Gun-powder Treaſon, the Tract againſt <hi>Baxter,</hi> and the two Metaphyſical Exer<g ref="char:EOLhyphen"/>citations; when he has glean'd up a parcel of private Letters and Correſpondencies, and much other crude and indigeſted Matter, which we may reaſonably pre<g ref="char:EOLhyphen"/>ſume the Biſhop would never have deſired ſhould have ſeen any other light after his death, but that of the Flames?</p>
+            <p>In the Directions to a Young Divine, there are abun<g ref="char:EOLhyphen"/>dance of things marſhall'd under that Head, which the Biſhop never intended for that purpoſe. Amongſt o<g ref="char:EOLhyphen"/>thers, there's a Syllabus of Socinian Queſtions foiſted in; concerning which 'twould perhaps puzzle the Editor to
+<pb n="11" facs="tcp:33942:6"/>
+give a ſatisfactory Anſwer to any of theſe Four Queſti<g ref="char:EOLhyphen"/>ons. <hi>Why it was Printed at all? Why at ſuch an unſea<g ref="char:EOLhyphen"/>ſonable time? Why under a falſe and improper Head? And why ſo lame and imperfect?</hi>
+            </p>
+            <p>
+               <hi>Why Printed at all?</hi> Was it that the Editor would have the Biſhop thought an Abettor of Socinianiſm? from which he ſtood at as great a Diſtance, as one part of a Contradiction from the other, as every one knows that was not a meer Stranger both to his Writings and Con<g ref="char:EOLhyphen"/>verſation. Or was it for the general Information of Mankind, in a part of knowledge they might with more ſafety be ignorant of? The Socinians are look'd upon by ſome as great Maſters of reaſoning, and perhaps they bid as fair for it, as the weakneſs of the Cauſe, they maintain, will admit of: So that what <hi>M. Cato</hi> obſerv'd of <hi>Caeſar,</hi> ſeems in ſome wiſe applicable to <hi>Socinus, <g ref="char:V">Ʋ</g>num ex Omnibus ad Evertendam Rempublicam [Chriſtianam] Sobrium acceſſiſſe.</hi> And his Opinions being ſo dangerous to the Foundation of Chriſtianity, it is ſomewhat unaccountable what neceſſity there was, to be directed to Chapter, Page, and Section, where to find them aſſerted to all the advantage they are capable of: Eſpecially if we conſider, that Men are <hi>naturally</hi> too inquiſitive after <hi>forbidden</hi> Knowledge: The Experiment coſt our firſt Parents very dear, and their Poſterity have ever had ſuch a fatal Curioſity to pry into the Errors of former Ages, as never needs to be ſet on edge. Whatſoever therefore the Biſhop might Communicate to <hi>a particular Friend, and one that was more than ordinarily curious in the Study of Theological Matters</hi> (as the Prefacer has it) yet he could never intend that Syllabus of Queſtions (in the dreſs it ap<g ref="char:EOLhyphen"/>pears in) for common and Publick Uſe: Much leſs would he ever have conſented to the diſperſing of it
+<pb n="12" facs="tcp:33942:7"/>
+at ſuch a time as this, when the Peſtilent Hereſies of <hi>Socinus</hi> are more induſtriouſly propagated in the Na<g ref="char:EOLhyphen"/>tion than ever.</p>
+            <p>But there is yet more Injuſtice done the Biſhop, by Printing it under an improper Head. 'Tis certain he never made <hi>That</hi> any part of his Inſtructions to a young Divine, either in that Copy the Editor met with or any other. For the Learned Prelate could not be ignorant, how dangerous it might prove to a <hi>Novice</hi> in Divinity, to direct him to a number of So<g ref="char:EOLhyphen"/>cinian Writers, without Signifying withal where to find their Errors confuted. This had been to preſcribe <hi>Poiſon</hi> without it's <hi>Antidote;</hi> to pervert and lead aſtray his young Student, rather than inſtruct him in the right Search of Truth, and ſo to influence his more injudi<g ref="char:EOLhyphen"/>cious years with the leaven of Hereſie, as it might coſt him ſome time and pains to wear off the Impreſ<g ref="char:EOLhyphen"/>ſion.</p>
+            <p>But laſtly, if printed it <hi>muſt</hi> be, and at an <hi>unſea<g ref="char:EOLhyphen"/>ſonable</hi> time too, and moreover under an <hi>improper Head;</hi> why was it after all ſent abroad ſo <hi>lame</hi> and <hi>imperfect, I mean,</hi> without thoſe references to Orthodox Authors, who have deſignedly and ſucceſsfully writ againſt the Socinians, and which are found in the Biſhop's Original Papers? I am not willing indeed to believe that the Collector omitted them, out of any affection to Socinianiſm. No, to do him right, he is ſo true to his main end, and has ſo carefully inſerted (without Diſtinction) whatever might ſerve to pro<g ref="char:EOLhyphen"/>mote it, that he can't be ſuſpected to poſtpone his In<g ref="char:EOLhyphen"/>tereſt in favour of that, or any other Perſwaſion what<g ref="char:EOLhyphen"/>ſoever. And therefore we may well enough ſuppoſe he has left out nothing that was in the Copy he met with: But then, is there not reaſon to expoſtulate the
+<pb n="13" facs="tcp:33942:7"/>
+Caſe with him, why this or any thing elſe ſhould be publiſh'd under a great Name from Copies defective or unfiniſh'd, to the Impairing of the Author's Repu<g ref="char:EOLhyphen"/>tation, and rather injury than benefit of others? But to make no more words about it, to ſhew how Genu<g ref="char:EOLhyphen"/>ine a Remain this ſame (amongſt others) is, I have ſent you what I find in the Biſhop's MSS concerning the Anti-Socinian Writers, which I ſhould think, ought ra<g ref="char:EOLhyphen"/>ther to have been Printed ſingle, and the other omit<g ref="char:EOLhyphen"/>ted, than the contrary.</p>
+            <p>What follows the <hi>Directions</hi> (to Page 383.) is little elſe but ſome private Letters and ſcatter'd Papers, glean'd up from ſeveral Quarters; many of which are not to be found amongſt the Biſhop's Writings; a certain ſign this, that if they be Genuine, he ſet little or no value on them; it being his conſtant Method, when he communi<g ref="char:EOLhyphen"/>cated any thing he valued, to his Friends, to deſire them to return the Copy, or at leaſt to cauſe it to be tran<g ref="char:EOLhyphen"/>ſcribed before he ſent it. Amongſt his Papers there are found Letters writ from every Corner of the Com<g ref="char:EOLhyphen"/>paſs, and amongſt others, ſome ſign'd with <hi>P. P.</hi> and dated from the <hi>Strand,</hi> near the <hi>May-pole.</hi> If all were ſuch as His, it would be worth the while to make a Preſent of them to the Haberdaſher of Small-wares in the <hi>Poultrey.</hi> But I would firſt know whe<g ref="char:EOLhyphen"/>ther <hi>P. P.</hi> would take it well to have His Expos'd to publick Cenſure. The <hi>Prefacer</hi> to the <hi>Remains,</hi> (if that be his Name at large) ſays that no Works are more grateful to Critical Readers, than ſuch as are compri<g ref="char:EOLhyphen"/>zed by way of Epiſtle. Now I do aſſure him, His are very entertaining that way; and if we ſhould divert the Reader at his coſt, it would be but a juſt Reta<g ref="char:EOLhyphen"/>liation. However, his Letters will be kept by way of Reprizal for further Service.</p>
+            <p>
+               <pb n="14" facs="tcp:33942:8"/>Next in order follow a Preface to a Diſcourſe con<g ref="char:EOLhyphen"/>cerning the <hi>Gunpowder-Treaſon,</hi> an Anſwer to a Tract of Mr. <hi>Baxter</hi>'s, and a little after two Metaphyſical Exercitations; all which being in Print before, 'tis hard to ſay for what end they are now Re-printed, unleſs to ſwell the Volume, and thereby lay a Tax upon the Subject. I believe few will think the Tranſlator of the Exercitations has merited any thing by his pains, either from the Biſhop or the Reader. For of good La<g ref="char:EOLhyphen"/>tine States, he has made them but very indifferent <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> ones, and as unintelligible to the <hi>Engliſh</hi> Reader, (for whom, I ſuppoſe, they were deſign'd) as Roſacruſian Philoſophy.</p>
+            <p>The like, nay much worſe Treatment have the <hi>States</hi> of Queſtions met with, which begin <hi>p.</hi> 568. and ſo in a manner cloſe the Book. Theſe they have given us in ſuch an Heterogeneous, Equivocal Mungrel Verſion, as I defy the whole Fraternity of Tranſlators to match, from the famous <hi>R. L.</hi> down to <hi>M</hi>'s. School-boys. So that it may truly be vouched upon this occaſion, if ever, <hi>Faciunt intelligendo ut nihil intelligant.</hi> Beſides 'tis manifeſt, the Biſhop has writ them haſtily and incuri<g ref="char:EOLhyphen"/>ouſly; And though probably he might ſometimes read them in the College Chappel, yet it can no more from thence be concluded, that he calculated them for the Preſs, than that a Man deſigns every thing he utters amongſt private Friends ſhould be proclaim'd at the Croſs. But whatſoever they are in themſelves, they have ſuffer'd in many places, by being garbled, depra<g ref="char:EOLhyphen"/>ved and ill Tranſlated, and ſometimes by the omiſſion of (what was of great Uſe in ſuch ſhort and imperfect Tracts) the References to particular Authors, who have handled the Points more copiouſly.</p>
+            <p>
+               <pb n="15" facs="tcp:33942:8"/>That this Charge may not ſeem to be laid without Ground, I will give you a few Specimens of the Tran<g ref="char:EOLhyphen"/>ſlator's or Tranſcriber's Performance in one of the States. And to prevent all Suſpicion, as if I intended to ag<g ref="char:EOLhyphen"/>gravate the matter, and with a ſpiteful Diligence to cull out the worſt for a Pattern of the reſt, I will be ſo fair as to look no farther than into the very firſt Queſtion that offers it ſelf, and from thence leave o<g ref="char:EOLhyphen"/>thers to judge what may be expected in the reſt.</p>
+            <p>The firſt Queſtion then is,<note n="*" place="margin">
+                  <hi>p.</hi> 568.</note> 
+               <hi>An Praeſcientia Divina à Rebus praeviſis tollat Contingentiam?</hi> where we need not ſeek far before the Tranſlator gives us ſome Tryals of his Skill. For in the very firſt Page but one, and within the compaſs of half of it, there are half as ma<g ref="char:EOLhyphen"/>ny Blunders as Lines. Inſtead of <hi>Alicui praeſens eſſe, (lin.</hi> 14.) as it is in the Original, and as the Author's Senſe requires it ſhould be, we read corruptly, <hi>Alicujus praeſens eſſe.</hi> The Biſhop is proving that a Future Con<g ref="char:EOLhyphen"/>tingent, cannot be actually Preſent <hi>(Scientiae etiam Di<g ref="char:EOLhyphen"/>vinae)</hi> even to Divine Knowledge; and gives this Rea<g ref="char:EOLhyphen"/>ſon for it, becauſe <hi>Alicui praeſens eſſe ſupponit eſſe ex parte rei,</hi> To be preſent to any one, <hi>&amp;c.</hi> not <hi>alicujus,</hi> but <hi>alicui</hi> in the ſame Caſe with <hi>Scientiae Divinae.</hi> This, 'tis true, may be a ſlip of the Preſs, but it looks much liker an Error elſewhere.</p>
+            <p>Two or three Lines further the Biſhop adds, <hi>Cum ideo Deus praeſcivit Futura Contingentia ab aeterno, neceſſe eſt ut ipſi etiam ſint futura, nempe reſpectu actualis exiſten<g ref="char:EOLhyphen"/>tiae.</hi> This is render'd, When therefore God did fore-know future Contingencies from Eternity, it is neceſ<g ref="char:EOLhyphen"/>ſary that they ſhould be to him even Future. Now any School-boy would have render'd <hi>[Cum ideo]</hi> pro<g ref="char:EOLhyphen"/>perly <hi>[Since therefore];</hi> and <hi>neceſſe eſt ut ipſi etiam ſint futura,</hi> ſhould likewiſe have been turn'd, <hi>It is neceſſary
+<pb n="16" facs="tcp:33942:9"/>
+that they be future even to him, or to him alſo,</hi> not <hi>to him even future;</hi> becauſe, 'tis plain, <hi>Etiam</hi> makes <hi>Ipſi</hi> Emphatical, not <hi>Futura;</hi> agreeably to the Biſhop's de<g ref="char:EOLhyphen"/>ſign, which was to prove that Future Contingents are future <hi>even to God,</hi> is, to him as well as to others; that which ſome, whom he mentions, did deny.</p>
+            <p>But the next words that follow are perverted more inexcuſably. The words in the MS. are, <hi>Futura Con<g ref="char:EOLhyphen"/>tingentia ab aeterno non erant,</hi> which the unskilful Gar<g ref="char:EOLhyphen"/>bler has turn'd, <hi>They were not futura contingentia ab aeterno;</hi> which neither anſwers the Biſhop's Latin, nor his Argument, nor makes him write conſiſtently with Truth, or with himſelf. It anſwers not his Latin; For theſe words <hi>Futura contingentia ab aeterno non erant,</hi> are a Propoſition <hi>ſecundi Adjacentis</hi> (as the Logicians term it) wherein the <hi>Verb</hi> includes both the <hi>Copula</hi> and the <hi>Predicate;</hi> and ſo <hi>non erant</hi> ſignifies as much as <hi>non exiſtebant,</hi> or <hi>non erant exiſtentia:</hi> and the Senſe of the words will be, that <hi>Future Contingents were not exiſtent from all Eternity.</hi> This will appear plain enough, if we conſider the Argument. For the Biſhop's Aſſer<g ref="char:EOLhyphen"/>tion immediately preceding is, that Future Contin<g ref="char:EOLhyphen"/>gents could not be preſent with God from Eternity, in reſpect of their actual Exiſtence; the medium where<g ref="char:EOLhyphen"/>by he proves it expreſly, is, becauſe Future Contingents <hi>ab aeterno non erant,</hi> were not exiſtent from Eternity, therefore he infers from Eternity they could not be pre<g ref="char:EOLhyphen"/>ſent with God. Thus it appears the Tranſlator has neither underſtood the Senſe of the Biſhop's words, nor the drift of his Argument: and yet both theſe are more pardonable, than to make him aſſert that which is really falſe in it ſelf, and moreover a Contradicti<g ref="char:EOLhyphen"/>on to what he had ſaid juſt before. It is falſe to ſay, They were not <hi>futura Contingentia ab Aeterno;</hi> for fu<g ref="char:EOLhyphen"/>ture
+<pb n="17" facs="tcp:33942:9"/>
+Contingents were ſuch from Eternity; the matter of this Propoſition, for Inſtance, <hi>Petrus Dominum ab<g ref="char:EOLhyphen"/>negabit,</hi> being future and contingent from Eternity. And if they were not from Eternity, then they could not be fore-known by God from Eternity; but the Biſhop had ſaid in the words foregoing, that God fore-knew them from Eternity: Therefore to make Him aſſert that Fu<g ref="char:EOLhyphen"/>ture Contingents were not from Eternity, is to make him inconſiſtent with himſelf: For which all due Thanks to the Tranſlator's Care and Judgment.</p>
+            <p>If any of the foremention'd Miſtakes ſeem too light to be animadverted upon; yet Miſtakes they are, and ſuch as none that had rightly underſtood what he had been about, could have been guilty of. And ſtum<g ref="char:EOLhyphen"/>bling upon ſo many within ſo ſhort a compaſs, and at the very Threſhold (as it were), I thought I needed go no further in; looking upon theſe as an Omen, or ſufficient warning what we have to truſt to elſewhere.</p>
+            <p>But beſides the unfaithfulneſs of the Verſion-part either the Tranſcriber of the States (whom the Editor ſpeaks of p. 567.) took but imperfect Copies of them, or the Tranſlator has aſſum'd (by what autho<g ref="char:EOLhyphen"/>rity, I know not) an Inquiſitorial Power of Purga<g ref="char:EOLhyphen"/>tion, or rather Depravation, through the whole. And of this alſo (according to promiſe) I will ſeek for no other proof, but what the firſt Queſtion furniſhes us with.</p>
+            <p>The Biſhop, it ſeems, reſolves it into theſe two Concluſions:</p>
+            <list>
+               <item>1. <hi>Quod Deus Futura Contingentia cognoſcat.</hi>
+               </item>
+               <item>2. <hi>Quod cognitio haec eorum contingentiam non tollat.</hi>
+               </item>
+            </list>
+            <p>The former <hi>(viz.)</hi> That God do's foreknow future Contingents, he proves, againſt the Socinians, by three
+<pb n="18" facs="tcp:33942:10"/>
+Arguments; the firſt of which is taken from God's Foreknowledge and Prediction of the Circumſtances of our Saviour's Conception and Birth. This the Pur<g ref="char:EOLhyphen"/>gator has vouchſafed to tranſmit more faithfully than the other, though not entirely neither. But for the other two, he has ſo contracted them into Short-hand, that they are rather Hints than Arguments, as is eaſily perceiv'd by comparing the Arguments as managed by the Biſhop, and as dock'd and mangled in the Remains.</p>
+            <p>The Biſhop's Second Argument ſtands thus:</p>
+            <p n="2">2. Joh. 19. v. 36. <hi>Chriſto de arbore infelici Suſpenſo, unà cum Sicariis, accedunt Milites; reliquorum crura fran<g ref="char:EOLhyphen"/>gunt, ſed Chriſti crura integra relinquunt &amp; illaeſa: Ratio<g ref="char:EOLhyphen"/>nem reddit Textus, Omnia haec geſta ſunt, ut Scriptura impleretur, dicens,</hi> Non frangetur ejus os unum. <hi>Cum ideo hoc Deus praedixit, cum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> contingens omnino erat, (Mi<g ref="char:EOLhyphen"/>lites enim potentiam habuerunt liberam, ut frangerent, &amp; Chriſti crura talia erant, ut facilè frangi poterant) ma<g ref="char:EOLhyphen"/>nifeſtum est Futura contingentia Deo eſſe certò cognita. Dico, Certò cognovit Deus crura non eſſe frangenda, alias falli poterat, quod tamen Sacer Textus expreſsè negat.</hi> Joh. 10.35. Si illos dixit Deos, ad quos Sermo Dei factus eſt, &amp; Scriptura ſolvi non poteſt, <hi>&amp;c. Scil. ſi Chriſto fides, Scriptura</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>non potest ſolvi,</hi> i. e. <hi>violari aut irrita reddi;</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>non poſſibile eſt, ſeu (quod idem) impoſſibile eſt ut ſolvatur: Et ideo neceſſe eſt ut Futura Contingentia ita eveniant prout praedixit Deus.</hi>
+            </p>
+            <p>Here is ſome Management of an Argument in this; but one muſt have very good Eyes, or elſe the Tran<g ref="char:EOLhyphen"/>ſlator's Spectacles, that can diſcern the true ſtreſs of it, as he has order'd it; which take as follows, at <hi>Large.</hi>
+            </p>
+            <p>
+               <pb n="19" facs="tcp:33942:10"/>
+               <hi>And then it was foretold, that not a Bone of Christ ſhould be broken on the Croſs, and many Circumſtances were verified according to the Propheſies of old therein.</hi>
+            </p>
+            <p>The ſame Fate has the Biſhop's Third Argument un<g ref="char:EOLhyphen"/>dergon, which in the MS. runs thus,</p>
+            <p n="3">3. <hi>Deus hoc ſibi arrogat ut incommunicabile Deitatis pri<g ref="char:EOLhyphen"/>vilegium, quod futura praenuntiet.</hi> Iſa. 41.22, 23. <hi>Sic enim Deus falſos alloquitur Prophetas</hi>—Annuntiate futura, <hi>ut</hi> cognoſcamus, quia Dii eſtis. <hi>Sic Iſa.</hi> 44.6, 7. Praeter me non eſt Deus: quis mihi ſimilis? Vocet &amp; de<g ref="char:EOLhyphen"/>nuntiet, ex quo conſtitui populum antiquum; ventura &amp; futura annuntient iis. <hi>Sic Dan.</hi> 2. Myſterium, quod Rex interrogat, Sapientes, Magi, Arioli &amp; Aruſpices ne<g ref="char:EOLhyphen"/>queunt indicare Regi; ſed eſt Deus in Coelo revelans myſteria, qui indicabit Tibi, O Rex, quae ventura ſunt in noviſſimis temporibus. <hi>Nempe futura in noviſſimis temporibus revelat Deus, ea<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> contingentia: nam</hi> (1<hi rend="sup">o</hi>.) <hi>Futura neceſſaria non ſolum Daemones, ſed &amp; homines ſa<g ref="char:EOLhyphen"/>pientes revelare poterant; at futura, de quibus ſacer Tex<g ref="char:EOLhyphen"/>tus hic loquitur, Deus ſibi-ipſi ſoli arrogat revelanda</hi> (2<hi rend="sup">o</hi>.) <hi>Futura de quibus hic loquitur</hi> Daniel, <hi>erant de regno Chriſti Sub Evangelio, de regno Babylonico, Perſico, Macedonico, Romano; futura ſcil. per homines liberrimè adminiſtrata. At haec omnia certò &amp; infallibiliter praedixit Deus. Ergo, Futura contingentia certò cognoſcit.</hi>
+            </p>
+            <p>Of all this the Epitomizer vouchſafes to give us only a ſhort hint in theſe words:</p>
+            <p>This Fore-knowledge in Scripture God aſſumes to Himſelf, and <hi>upbraids the Falſe Prophets, becauſe they did not know things to come,</hi> Iſa. 44. Dan. 2.</p>
+            <p>The Biſhop having ſaid all he thought neceſſary up<g ref="char:EOLhyphen"/>on the firſt Poſition above-mention'd, <hi>viz. That God fore-knows future Contingents,</hi> he refers his Hearers for
+<pb n="20" facs="tcp:33942:11"/>
+further Information to ſeveral<note n="*" place="margin">Qui plura vellet, Aquin. vid at P. <hi>1.</hi> qu. <hi>14.</hi> Magiſtr. Sentent. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>1.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u. <hi>38.</hi> Et Commentatores ibi <gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>m omnes, praecip<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>è Fran<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mel, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ar. Diſput. in p<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>m partem Aquin. tibi per <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> de Praeſetentia Dei circa F<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nting. fusè diſputat &amp; nerv<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>è, <hi>&amp;c.</hi>
+               </note> Au<g ref="char:EOLhyphen"/>thors, who handle it more largely; whom the Purgator has very judici<g ref="char:EOLhyphen"/>ouſly paſs'd over, though one would think ſuch References were of moſt Uſe in Abſtracts, or ſhort States.</p>
+            <p>You ſee I have run through the Book, but after a Deſultory manner: Yet theſe Evidences (out of many that might be pro<g ref="char:EOLhyphen"/>duced) are ſufficient to ſhew what an unlimited and an unwarrantable Liberty is taken, not only to publiſh things without the Author's Conſent, either expreſs or preſumptive, but alſo to maim, corrupt and abuſe them, and after all to Palm them for Genuine upon the World.</p>
+            <p>I would here make an end, but that the Editor has contrived ſuch a <hi>Remain</hi> for the cloſe of his Book, as deſerves not to be paſs'd over without an Obſervation. 'Tis a Letter of the Biſhop's to his <hi>Clergy, occaſion'd by an Order of Seſſions, for the Proſecution of the Laws againſt Diſſenters,</hi> which whatever Service or Credit it may do the Biſhop, I am ſure can do the Editor neither. For 'tis notorious that Sir <hi>P. P.</hi> has been a Champion for Toleration; witneſs the Caſe of Toleration heretofore Printed with his Name to it, and his Preface to a for<g ref="char:EOLhyphen"/>mer Book of the Biſhop of <hi>Lincoln</hi>'s Tracts: And yet he has taken care to let the World underſtand by this Letter, that the Biſhop thought the Laws againſt Diſ<g ref="char:EOLhyphen"/>ſenters good, and their Execution neceſſary, and that he not only requir'd his Clergy to publiſh the above<g ref="char:EOLhyphen"/>ſaid Order, and diligently to advance the deſign of it, but inforc'd the Reaſonableneſs of Conformity to the Eſtabliſht Church by ſuch Arguments, as in my opinion, 'tis ſcarce poſſible to compriſe more or weightier in ſo ſmall a compaſs. The Letter is but of two Pages, and if you have read it, pray tell me whether the Bp. has not ſaid as much
+<pb n="21" facs="tcp:33942:11"/>
+as could well be ſaid, in ſo few lines, &amp; what your thoughts were upon reading of it. Was it not obvious to conceive, that Conſidering Men would begin to queſtion, whether the Diſcourſe for Toleration, Printed amongſt others lately under the Bp's Name, were really the Bp's, or ſome Suppo<g ref="char:EOLhyphen"/>ſititious Piece? (And then let Sir <hi>P.</hi> ſee how he will avoid the ſuſpicion of Forgery). Or if they acquit Sir <hi>P.</hi> in that, they would at leaſt perceive, that how reaſonable ſoever in the <hi>Theory</hi> a Toleration might ſeem to the Bp. yet when he came to reduce it to <hi>Practice,</hi> and have to do with the troubleſome <hi>Spirit</hi> of our <hi>Diſſenters,</hi> he found it not feaſi<g ref="char:EOLhyphen"/>ble, nor conſiſtent with the Weal of the Church: And then let Sir <hi>P.</hi> (the Champion for Toleration,) ſee how he will juſtify the Publiſhing ſo much againſt a Toleration, and under a Government too, that he would fain flatter for having granted it, and Eſtabliſht it by Law.</p>
+            <p>I fear I have tranſgreſs'd the bounds of a Letter; there<g ref="char:EOLhyphen"/>fore I ſhall add no more, ſave only to put in a ſhort Caveat or two. And in the firſt place, <hi>Caveat Emptor,</hi> let the Pur<g ref="char:EOLhyphen"/>chaſer beware hereafter, how he is impos'd upon by Sur<g ref="char:EOLhyphen"/>reptitious Pieces. All Coins have not the true <hi>Stamp;</hi> and ſome that have, have too great a mixture of the Alloy in the Metal to paſs currant.</p>
+            <p>And if I might be admitted for once to be of Counſel to Perſons of Quality and Learning, I would humbly adviſe them to be very cautious whom they admit <hi>à Secretis,</hi> leſt it be their lot (as it has been lately of a Spiritual and a Temporal<note n="*" place="margin">Vid. Sir <hi>Joh. Thom<g ref="char:EOLhyphen"/>pſon</hi>'s Vin<g ref="char:EOLhyphen"/>dication of the <hi>E.</hi> of <hi>A.</hi>
+               </note> Lord) to have their Privacies expos'd by ſome Relick-Monger or other. I am</p>
+            <closer>
+               <signed>Your affectionate Friend and Servant, <hi>Hen. Brougham.</hi>
+               </signed>
+               <dateline>Queen<hi>'s</hi>-College, <date>
+                     <hi>June</hi> 20. 1694.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="catalogue">
+            <pb n="22" facs="tcp:33942:12"/>
+            <head>What relates to the <hi>Socinian</hi> Controverſie, and is found in the <hi>Biſhop</hi>'s MS. but omitted in the <hi>Remains,</hi> is as follows:</head>
+            <div type="part">
+               <head>An Myſteria Fidei à ratione naturali apprehendi poſſunt?</head>
+               <p>
+                  <hi>Negant.</hi>
+               </p>
+               <list>
+                  <item>1. LUbbertus de Chriſto Servatore. <hi>l.</hi> 4. <hi>cap.</hi> 12. <hi>pag.</hi> 582.</item>
+                  <item>2. Jac. ad Portum Orthodoxâ fidei defenſione. <hi>cap.</hi> 30. <hi>pag.</hi> 377.</item>
+                  <item>3. Ludovicus Crocius in Anti-Socinianiſmo. <hi>Diſp.</hi> 7. <hi>pag.</hi> 64.</item>
+                  <item>4. Andreas Prolaeus in Mataeologiâ ſua Socinianâ. <hi>c.</hi> 2. <hi>p.</hi> 21, 22. <hi>&amp;c.</hi>
+                  </item>
+                  <item>5. Chriſtianus Dithmarſus in Coll. Exercitationum Anti-Socinianarum. <hi>Exercit.</hi> 2. <hi>p.</hi> 32. <hi>&amp;c.</hi>
+                  </item>
+                  <item>6. Balth. Meiſnerus Conſiderat. Theologiae Photinianae. <hi>cap.</hi> 4. <hi>pag.</hi> 310.</item>
+                  <item>7. Joh. Hoornebeck Socinianiſmi Confutati, <hi>Tom.</hi> 1. <hi>l.</hi> 1. <hi>c.</hi> 5. <hi>fusè.</hi>
+                  </item>
+                  <item>8. Sam. Mareſius in Hydrâ Socinianiſmi confutatâ. <hi>l.</hi> 1. <hi>c.</hi> 25. <hi>p.</hi> 392.</item>
+                  <item>9. Suarez Opuſc. <hi>lib.</hi> 3. <hi>cap.</hi> 1<hi rend="sup">o</hi>, 2<hi rend="sup">o</hi>.</item>
+                  <item>10. Pet. Lombard. Sent. <hi>Lib.</hi> 2. <hi>Diſp.</hi> 26. Vid. Com<g ref="char:EOLhyphen"/>mentatores, <hi>ibid.</hi>
+                  </item>
+                  <item>11. Aquinas. 22. <hi>Quaeſt.</hi> 2. <hi>Art.</hi> 3. 4. <hi>&amp;</hi> Commenta<g ref="char:EOLhyphen"/>tores, <hi>ibid.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <pb n="23" facs="tcp:33942:12"/>
+               <head>An Sociniani ſint verè Chriſtiani?</head>
+               <p>
+                  <hi>Negant.</hi>
+               </p>
+               <list>
+                  <item>1. LUdov. Crocius Anti-Socinianiſmi. <hi>Diſp.</hi> 1. §. 4.</item>
+                  <item>2. Andraeas Prolaeus in Mataeol. Socinianâ. <hi>c.</hi> 1. <hi>qu.</hi> 5. <hi>l.</hi> 7. <hi>&amp;c.</hi>
+                  </item>
+                  <item>3. Balthaſ. Meiſnerus in brevi Conſid. Theologiae Photinianae. <hi>c.</hi> 4. <hi>pag.</hi> 294. <hi>&amp;c.</hi> 5. <hi>pag.</hi> 634.</item>
+                  <item>4. Jacob. Martinus. Synopſi Religionis Photinianae<g ref="char:punc">▪</g> 
+                     <hi>cap.</hi> 6. §. 26. <hi>pag.</hi> 144. <hi>&amp;c.</hi> 1. §. 14.</item>
+                  <item>5. Joh. Polyander Concertat. Anti-Socinianâ. 1<hi rend="sup">a</hi>. <hi>Diſp.</hi> 4, 5.</item>
+                  <item>6. Joh. Hoornebeck Socinianiſmi Confut. <hi>Tom.</hi> 1. <hi>l.</hi> 2. <hi>c.</hi> 9. <hi>pag.</hi> 188.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Authores aliqui qui contra F. Socinum. Senenſem, ſui<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſequaces ſcripſerunt.</head>
+               <list>
+                  <item>1. JAcobus ad Portum, <hi>SS.</hi> Theologiae in Acad. Lauſan<g ref="char:EOLhyphen"/>nenſi Profeſſor, ſcripſit <hi>Defenſionem Fidei Orthodoxae</hi> adverſus <hi>Chriſtophori Oſtorodii Inſtitutiones Religionis Chri<g ref="char:EOLhyphen"/>ſtianae,</hi> Genev. Edit. An. 1613. 4<hi rend="sup">to</hi>.</item>
+                  <item>2. Sibrandus Lubbertus ſcripſit contra F. Socinum, lib. 4. <hi>de Jeſu Chriſto Servatore.</hi> 4<hi rend="sup">to</hi>.</item>
+                  <item>3. Andreas Eſſenius <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, Hug. Grotii ſcripſit Lib. cui Titulus—<hi>Triumphus Crucis, ſeu Fides Catholica de Sa<g ref="char:EOLhyphen"/>tisfactione Chriſti contra</hi> Joh. <hi>Crellium Fran.</hi> 4<hi rend="sup">to</hi>.</item>
+                  <item>4. Johan. Henr. Biſterfeldius Naſſovius ſcripſit de <hi>
+                        <g ref="char:V">Ʋ</g>no Deo, Patre, Filio, &amp; Spiritu Sancto, contra</hi> Joh. <hi>Crellii,</hi> l. 2. <hi>de <g ref="char:V">Ʋ</g>no Deo Patre.</hi> Lug. Bat. 1639. 4<hi rend="sup">to</hi>.</item>
+                  <item>5. Wolfangus Franzius ſcripſit Diſp. <hi>varias adverſus Photinianos pro Satisfactione Chriſti,</hi> Sub hoc Titulo, <hi>Diſ<g ref="char:EOLhyphen"/>putationes Theolog. de Sacrificiis Satisfactionis Chriſti pro peccatis totius Mundi praeſtitae.</hi> Typis Firmiſſimis. 4<hi rend="sup">to</hi>.</item>
+                  <pb n="24" facs="tcp:33942:13"/>
+                  <item>6. Chriſtanus Matthias Dithmarſus in Academiâ Nori<g ref="char:EOLhyphen"/>corum Altorfinâ Profeſſor, ſcripſit &amp; edidit <hi>Collegium Exer<g ref="char:EOLhyphen"/>citationum Theologicarum Anti-Photinianum, in quo Diſpu<g ref="char:EOLhyphen"/>tationes decem.</hi> (1.) De Notitiae Dei naturalis exiſtentia &amp; eſſentiâ. (2.) De Notitiae naturalis uſu &amp; efficaciâ. (3.) De <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, i. e. Nomenclaturâ Divinâ in genere &amp; in ſpecie de nomine <hi>Jehova.</hi> (4.) De appellatione <hi>Deus.</hi> (5.) De ap<g ref="char:EOLhyphen"/>pellatione <hi>Adon,</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>Dominus.</hi> (6.) De Dei definitione, genere &amp; Praedicatorum qualitate. (7.) De Eſſentiae Divi<g ref="char:EOLhyphen"/>nae unitate. (8.) De naturâ Attributorum Divinorum ad <hi>intra</hi> conſideratorum. (9.) De Attributis Divinis <hi>ad extra.</hi> (10.) De ordine Attributorum Divinorum. 4<hi rend="sup">to</hi>.</item>
+                  <item>7. Valentinus Legdaeus Suerinenſis edidit <hi>Examen refu<g ref="char:EOLhyphen"/>tationis Valent. Smalcii, quam Theſibus Alberti Graweri de Aeternâ Deitate &amp; Incarnatione Filii Dei,</hi> oppoſuit. 4<hi rend="sup">to</hi>.</item>
+                  <item>8. Joh. Winterus Naumbergenſis edidit <hi>refutationem Sententiae F. Socini</hi> de Juſtificatione hominis coram Deo, quam tractat in praelectionibus Theolog. <hi>cap.</hi> 15. Proble<g ref="char:EOLhyphen"/>mata Socini quin<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ponit &amp; refellit. 4<hi rend="sup">to</hi>.
+<list>
+                        <item>1. An in Juſtificatione noſtrâ peccata noſtra deleantur nudâ remiſſione, ſine Satisfactione? Aſſerit Socinus.</item>
+                        <item>2. An Deus poterat peccata condonare ſine Satisfacti<g ref="char:EOLhyphen"/>one? Aſſerit Socinus.</item>
+                        <item>3. An Vitae innocentia poſſit cenſeri loco Satisfactionis, &amp; articulum Juſtificationis ingredi? Aſſerit Socinus.</item>
+                        <item>4. An Deus voluerit peccata ſine ſatisfactione condo<g ref="char:EOLhyphen"/>nare? Aſſerit Socinus.</item>
+                        <item>5. An Chriſtus pro peccatis noſtris ſatisfecerit? Negat Socinus. Idem ſcripſit <hi>Collationem &amp; Differentiam Vet. &amp; Nov.</hi> Teſtamenti <hi>Sacerdotum:</hi> Item Tractatum de hac quaeſtione, An <hi>Adamus in ſtatu Integritatis fuerit Mortalis?</hi> Aſſerit Socinus. Negat Winterus.</item>
+                     </list>
+                  </item>
+                  <item>9. Joh. Junius Eccleſiae Sylvae Ducenſis Paſtor ſcripſit <hi>Refutationem Praelectionum Theologicarum</hi> F. Socini Senen<g ref="char:EOLhyphen"/>ſis, Amſtelod. 1633. 8<hi rend="sup">vo</hi>.</item>
+                  <pb n="25" facs="tcp:33942:13"/>
+                  <item>10. Balthazar Meiſnerus in Academiâ Wittebergenſi Profeſſor ſcripſit Lib. cui Tit. <hi>Brevis Conſideratio Theo<g ref="char:EOLhyphen"/>logiae Photinianae, prout eam F. Socinus deſcripſit</hi> libello cui titulus— <hi>Quod Evangelici omnino debent ſe illorum coetui adjungere, qui falsò Ariani &amp; Ebionitae vocan<g ref="char:EOLhyphen"/>tur.</hi> 8<hi rend="sup">vo</hi>.</item>
+                  <item>11. Jacob. Martin. ſcripſit Lib. cui tit—<hi>Synopſis totius Religionis Photinianae ex illorum Inſtitutione bre<g ref="char:EOLhyphen"/>vi, Volkelio, Oſtorodo, aliiſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ejus ſectae authoribus repe<g ref="char:EOLhyphen"/>titae &amp; breviter refutatae.</hi> 8<hi rend="sup">vo</hi>.</item>
+                  <item>12. Johan. Junius Eccleſia Aſſendelphenſis Miniſter ſcripſit <hi>Examen Reſponſionis F. Socini ad Librum Jacobi Wieki, de Divinitate Filii Dei, &amp; Spiritus Sancti.</hi> Am<g ref="char:EOLhyphen"/>ſtelod. An. 1628. 8<hi rend="sup">vo</hi>.</item>
+                  <item>13. Johan. Polyander Profeſſor Leidenſis ſcripſit Lib. cui Tit. <hi>Prima concertatio Anti-Sociniana Diſputa<g ref="char:EOLhyphen"/>tionibus</hi> 48. <hi>comprehenſa.</hi> Amſtel. An. 1640. 8<hi rend="sup">vo</hi>.</item>
+                  <item>14. Joh. Paulus Fetwinger in Acad. Altdorphinâ A<g ref="char:EOLhyphen"/>lumnorum Noricorum Ephorus ſcripſit Lib. cui Titu<g ref="char:EOLhyphen"/>lus—<hi>Vindiciae Incarnationis Jeſu Chriſti aeterni Patris aeterni Filii,</hi> pro Alberto Grawero Profeſſore olim Je<g ref="char:EOLhyphen"/>nenſi. 8<hi rend="sup">vo</hi>.</item>
+                  <item>15. Andreas<note n="*" place="margin">Idem <hi>Ke<g ref="char:EOLhyphen"/>ſleruſhabet</hi> Logicae &amp; Metaphyſi<g ref="char:EOLhyphen"/>cae Socinia<g ref="char:EOLhyphen"/>nae Exa<g ref="char:EOLhyphen"/>men.</note> Keſlerus Superintendens Eisfeldenſis ſcripſit Lib. cui Tit. <hi>Phyſicae Photinianae Examen,</hi> &amp;c. An. 1630. 8<hi rend="sup">vo</hi>.</item>
+                  <item>16. Jacob. Martin. ſcripſit Lib. cui Tit. <hi>J. Martini de tribus Elohim Liber primus, Photinianorum novorum, praecipuè Georg. Emeldeni blaſphemiis oppoſitus.</hi> An. 1619. Octavo.</item>
+                  <item>17. Andreas Volanus ſcripſit Lib. cui tit. <hi>Paraeneſis Ard. Volani ad omnes in regno Poloniae, magno Ducatu Lithuaniae, Somoſatenianae Doctrinae Profeſſores: &amp; ad no<g ref="char:EOLhyphen"/>va Ebionitarum contra Paraeneſin objecta reſpontio.</hi> Spirae. An. 1582.</item>
+                  <pb n="26" facs="tcp:33942:14"/>
+                  <item>18. Prodiit not ita pridem Libellus cui titulus, <hi>Speci<g ref="char:EOLhyphen"/>men refutationis libri Johanis Crellii de Satisfactione Chri<g ref="char:EOLhyphen"/>ſti.</hi> Authore L. V. <hi>&amp;c.</hi> Trajecti ad Rhenum. An. 1648. 12<hi rend="sup">mo</hi>.</item>
+                  <item>19. Extat Meditatio Theologica <hi>de uſu</hi>
+                     <note n="*" place="margin">Vide ſis hac de re Joach. Stegman. de Judice &amp; norma Fidei Con<g ref="char:EOLhyphen"/>troverſia<g ref="char:EOLhyphen"/>rum Li<g ref="char:EOLhyphen"/>bros duos. Eleuthero<g ref="char:EOLhyphen"/>poli. An. <hi>1644.</hi>
+                     </note> 
+                     <hi>&amp; abuſu rationis Humanae in interpretandis &amp; aeſtimandis rebus &amp; Scripturis Divinis.</hi> per C.S.A. Lug. Batav. 1633. 12<hi rend="sup">mo</hi>.</item>
+                  <item>20. Ambroſius de Penaloſa ſcripſit Opus egregium de <hi>Chriſti &amp; Spiritus Sancti Divinitate, &amp; Trinitatis My<g ref="char:EOLhyphen"/>ſterio</hi> contra Socinianos. An. 1635. Fol.</item>
+                  <item>21. Nicolaus Arnoldus Polonus Eccleſiae Beetkumanae Miniſter librum edidit cui Tit. <hi>Johan. Maccovius Redi<g ref="char:EOLhyphen"/>vivus,</hi> continens. 1. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Pontificiorum Soci<g ref="char:EOLhyphen"/>nianorum, <hi>&amp;c.</hi> 2. Caſus Conſcientiae ad normam Do<g ref="char:EOLhyphen"/>ctrinae Socinianae. 3. Anti-Socinum, cum Appendice de Atheis. An. 1647. 4<hi rend="sup">to</hi>.</item>
+                  <item>22. Hugo Grotius de <hi>Satisfactione Chriſti contra, F. Socinum</hi>
+                     <note n="‖" place="margin">i. e. <hi>Socino.</hi>
+                     </note> cui reſp. Andreas Eſſenuis in <hi>Triumpho Crucis,</hi> &amp; L. V. in <hi>Specimine refutationis Joh. Crellii de Satiſ<g ref="char:EOLhyphen"/>factione Chriſti.</hi> 8<hi rend="sup">vo</hi>.</item>
+                  <item>23. Vid. Ludov. Lucium <hi>de Satisfactione Chriſti</hi> contra Michaelem Gettichium. <hi>Edit. Baſil.</hi> 1612. 8<hi rend="sup">vo</hi>.</item>
+                  <item>24. Lambert. Danaeus in P. Lomb. Sentent. lib. 1. mul<g ref="char:EOLhyphen"/>ta pro Trinitate diſputat. Edit An. 1580. 8<hi rend="sup">vo</hi>.</item>
+                  <item>25. Chriſtianus Becmannus Bornenſis edidit <hi>Exerci<g ref="char:EOLhyphen"/>tationes Theolog. pro Deitate Chriſti, &amp;c.</hi> contra Socinum, Smalcium, Oſtorodum, Crellium, Mennonem Simonis, Paracelſum, Wiegelium, <hi>&amp;c. Amſt. An.</hi> 1643. Fol.</item>
+                  <item>26. Joh. Paulus Felwingern ſcripſit <hi>Examen diſquiſitio<g ref="char:EOLhyphen"/>nis brevis edit.</hi> Norembergae. 1637. 8<hi rend="sup">vo</hi>.</item>
+                  <item>27. Sam. Mareſii <hi>Xenia Academica, ſeu de Divinitate &amp; Perſonalitate Sp. Sancti</hi> contra Socinianos (cum aliis) 4<hi rend="sup">to</hi>.</item>
+                  <item>28. Diſputatio Theologica Orthodoxa de <hi>Sanctiſſima Trinitate.</hi> Authore Joſepho Voiſin. <hi>Par.</hi> 1647. 8<hi rend="sup">vo</hi>.</item>
+                  <pb n="27" facs="tcp:33942:14"/>
+                  <item>29. <hi>Socinianiſmi confutati.</hi> Tomus 1. Authore Johanne Hoornebecke Profeſſore Ultrajectano. <hi>
+                        <g ref="char:V">Ʋ</g>ltrajecti.</hi> 1650. 4<hi rend="sup">to</hi>.</item>
+                  <item>30. <hi>Hydra Socinianiſmi expugnata contra</hi> Joh. Volkelium &amp; Joh. Crellium. per Sam. Mareſium, <hi>Groningae.</hi> 1651. 4<hi rend="sup">to</hi>.</item>
+                  <item>31. Bernardus Paxillus ſcripſit <hi>Monomachian pro defen<g ref="char:EOLhyphen"/>ſione Fidei Trinitatis.</hi> Cracov. 1616. In Bibleoth. Bodl.</item>
+                  <item>32. Joh. Cloppenburg ſcripſit <hi>Vindicias pro Deitate Sp. Sancti,</hi> adverſus Joh. Bidellum Anglum. <hi>Franck.</hi> 1652.</item>
+                  <item>33. Joſuae Stegmanni <hi>Photinianiſmus, ſeu ſuccincta re<g ref="char:EOLhyphen"/>futatio errorum Photinianorum, &amp;c.</hi> Rhinthelii. 1623. 8<hi rend="sup">vo</hi>.</item>
+                  <item>Alii pene infiniti, Pontificii pariter &amp; Reformati ſeſe Socino oppoſuere, ut paſſim videre eſt. Vide ſis.
+<list>
+                        <item>Aegidium Hunnium in Articulo de Trinitate.</item>
+                        <item>Polanum in Syntagm. Theol. <hi>l.</hi> 3. <hi>c.</hi> 2. <hi>ad</hi> 11.</item>
+                        <item>Barthol. Terres in 1. part. Aquinatis.</item>
+                        <item>Benedict. Szentkiral. Tranſylvanum contra Georgi<g ref="char:EOLhyphen"/>um Enjedinum.</item>
+                        <item>Hieron. Zanchium de tribus Elohim, &amp;c.</item>
+                        <item>Hannib. Roſſeli Comment. in Paemandrum Hermetis.</item>
+                     </list>
+                  </item>
+                  <item>Calvinum in defenſione Orthodoxae fidei ſacrae Trini<g ref="char:EOLhyphen"/>tatis contra M. Servetum, &amp; Georg. Blandr.</item>
+                  <item>Eraſmum Brochmannum, qui utra<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Controverſiarum parte quaeſtiones Socinianas proponit &amp; diſcutit.</item>
+                  <item>Dionyſium Petavium, qui fusè pariter &amp; doctè in Dog<g ref="char:EOLhyphen"/>matis Theologicis tractandis contra Socinum diſputat, te<g ref="char:EOLhyphen"/>ſtimoniis ex intimâ Antiquitate petitis.</item>
+                  <item>Tandem longum Scriptorum Catalogum (eorum nem<g ref="char:EOLhyphen"/>pè qui contra Socinum &amp; ſui ſequaces militant) tibi ex<g ref="char:EOLhyphen"/>hibet Chriſtianus Becmannus Bornenſis in Exercitationi<g ref="char:EOLhyphen"/>bus Theologicis Amſtelodami editis An. 1643. pag. 12. Ubi Authores 56 plus minus enumerat, qui juſto Bello &amp; Marte internecino contra Socinum, ipſum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> etiam So<g ref="char:EOLhyphen"/>cinianiſmum animosè militant. Qui vellet, videat.</item>
+                  <item>
+                     <pb n="28" facs="tcp:33942:15"/>Scholaſtici (quod ad Articulum Trinitatis attinet) in 1. Sent. P. Lombardi diſtinct. 2. &amp; in 1. parte Aquina<g ref="char:EOLhyphen"/>tis multa diſputant, curioſa magis fateor quam viro cor<g ref="char:EOLhyphen"/>dato profutura. Quorum omnium Catalogum laboriosè contextum tibi exhibet Johan. Martinez de Ripaldâ in Lib. Sent. 1. Diſp. 2.</item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Advertiſement.</head>
+            <p>A Daily Office for the Sick: Compil'd out of the Holy Scripture, and the Liturgy of our Church. With occaſional <hi>Prayers, Meditations</hi> and <hi>Directions.</hi>
+            </p>
+            <p>The <hi>Pantheon,</hi> Repreſenting the fabulous Hiſtories of the Heathen Gods, and moſt Illuſtrious Heroes; in a ſhort, plain and familiar Method, by way of Dialogue, for the Uſe of Schools. Written by <hi>Fra. Pomey,</hi> of the Society of Jeſus: Author of the <hi>French</hi> and <hi>Latin</hi> Di<g ref="char:EOLhyphen"/>ctionary, for the Uſe of the <hi>Dauphin.</hi>
+            </p>
+            <p>Both Printed for <hi>R. Clavell</hi> at the Peacock in St. <hi>Paul</hi>'s Church-yard.</p>
+            <pb facs="tcp:33942:15"/>
+         </div>
+      </back>
+   </text>
+</TEI>
